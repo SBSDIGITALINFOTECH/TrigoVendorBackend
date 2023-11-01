@@ -1,0 +1,18 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore .env files (used to store environment variables)
+.env
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore compiled JavaScript files
+*.js
+
+# Ignore dependency lock files
+yarn.lock
+package-lock.json
