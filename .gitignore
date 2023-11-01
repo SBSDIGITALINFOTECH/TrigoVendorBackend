@@ -6,12 +6,9 @@ node_modules/
 
 # Ignore .env files (used to store environment variables)
 .env
-
+.gitignore
 # Ignore macOS system files
 .DS_Store
-
-# Ignore compiled JavaScript files
-*.js
 
 # Ignore dependency lock files
 yarn.lock
